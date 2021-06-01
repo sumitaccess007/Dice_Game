@@ -1,0 +1,59 @@
+body{
+   background-color: #046582;
+   color: #f39189;
+   text-align: center;
+}
+
+/* Title */
+.title{
+   font-size: 4rem;
+   font-family: 'Pattaya', sans-serif;
+   padding-bottom: 1.5%;
+   letter-spacing: 1px;
+}
+
+.title h1{
+   margin: 2% auto auto 2%;
+}
+
+/* Players */
+.players{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   margin: auto 30% auto;
+}
+
+.players-heading{
+   font-family: 'Patrick Hand', cursive;
+   letter-spacing: 2px;
+}
+
+/* Dices */
+.dices{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   margin: auto 30% auto;
+}
+
+.dice1-image, .dice2-image {
+   margin: 3% auto 8%;
+}
+
+.winner-image {
+   width: 10%;
+}
+
+/* Footer */
+.footer{
+   font-family: 'Londrina Solid', cursive;
+   letter-spacing: 4px;
+}
+.footer-image{
+   width: 1.5%;
+}
+
+font-family: 'Londrina Solid', cursive;
+font-family: 'Patrick Hand', cursive;
+font-family: 'Pattaya', sans-serif;
